@@ -18,4 +18,4 @@ class MyClass {
 - [x] Add headings
 - [x] Add images
 - [x] Add code
-- [] Make a tasklist
+- [ ] Make a tasklist
