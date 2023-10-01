@@ -14,3 +14,8 @@ class MyClass {
   }  
 }
 ```
+## Adding task lists in markdown  
+- [x] Add headings
+- [x] Add images
+- [x] Add code
+- [] Make a tasklist
